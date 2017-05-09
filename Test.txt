@@ -1,2 +1,16 @@
 This is a test!
 Hello World!
+
+--
+set up for git
+git config --global user.name "kamalkrki"
+git config --global user.email "kamalkrki@gmail.com"
+
+git clone <repository url>
+
+git repository
+git add test.txt(file to add)
+git status
+
+git commit -m"(message)" test.txt
+git push -u origin master
